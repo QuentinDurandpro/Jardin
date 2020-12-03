@@ -1,0 +1,46 @@
+body{
+    background-color: grey;
+}
+
+header{
+    background-color: white;
+    padding-top: 1px;
+    padding-left: 10px;
+}
+
+.house{
+    display: flex;
+    justify-content: center;
+}
+
+.house img{
+    width: 100px;
+    margin: 10px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.txtimg{
+    displaY: flex;
+}
+
+.bloc{
+    background-color: white;
+    padding-top: 1px;
+    padding-left: 10px;
+    width: 23%;
+}
+
+.txtimg img{
+    width: 120px;
+}
+
+.bluetxt{
+    font-size: 10px;
+    color: rgb(11, 104, 226);
+}
